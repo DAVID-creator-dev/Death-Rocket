@@ -1,38 +1,43 @@
-# Death Rocket (TPS - Console)
+# Death Rocket
 
-Death Rocket is a third person shooter. We have to kill opponents with rocket launcher and capture flag zone to take the advantage. We can play in solo with the training map and in 1VS1 and 2VS2. We have a grappling hook to travel the map faster, find strategic zone or try to escape the opponent in dangerous situation.
+## Overview
+**Death Rocket** is a **third-person shooter** focused on fast-paced combat and objective-based gameplay. Players fight using **rocket launchers** while competing to **capture control zones** in order to gain the advantage over their opponents.
 
-This project started the 18/11/2024 and finished the 18/12/2024.
-Group: 4 GP 
+The game emphasizes **mobility, positioning, and timing**, combining explosive combat with vertical and dynamic map traversal.
 
-First Game on PS5
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/Death-Rocket/refs/heads/main/docs/images/demo.gif" alt="Demo">
+</p>
 
-## Player Controls
+This project was developed by a team of **4 Game Programmers (GP)**.
+- **Platform**: PlayStation 5
+
+---
+
+## Features
+
+### Game Modes
+- **1v1**: Competitive duel mode
+- **2v2**: Team-based combat with coordination and strategy
+
+### Core Gameplay
+- Third-person shooter with **rocket launcher combat**
+- Objective-based gameplay through **control zone capture**
+- High mobility encouraging aggressive and tactical play
+- Strategic use of the environment to gain an advantage
+
+### Abilities & Ultimates
+- **Grappling Hook**
+  - Fast traversal across the map
+  - Access to strategic high-ground positions
+  - Escape option in dangerous situations
+
+- **Ultimate Abilities**
+  - Powerful temporary abilities that can turn the tide of a match
+  - **Infinite ammo**, allowing continuous rocket fire for a short duration
+
+### Technical & Platform
+- Optimized for **PlayStation 5**
+- Full controller support, including menu navigation
 
 
-| Controler | PC | Action |
-| :-------- | :------- | :------- |
-| `Left Joystick` | `W/A/S/D` | Move player |
-| `Right Joystick` | `Mouse movement` | Move camera around player |
-| `Cross Button` | `Space` | Jump |
-| `Left Joystick Button` | `Maj` | Run |
-| `Hold Cirlce` | `Ctrl` | Crouch |
-| `Left Bumper` | `Hold E` | Use grappling hook |
-| `Square` | `R` | Reload amo |
-| `Right Trigger` | `Mouse Left Click` | Shoot |
-| `Left Trigger` | `Mouse Right Click` | Aim |
-| `Right Bumper` | `Mouse Middle Click` | Use ultime |
-| `Options Button` | `Enter` | Pause |
-| `Down Arrow` | `TAB` | Score board |
-
-## App version and Documentation
-- [Visual Studio 2022](https://visualstudio.microsoft.com/fr/)
-- [Unreal Engine 5](https://www.unrealengine.com/fr)
-- [Documentation Unreal Engine](https://dev.epicgames.com/documentation/fr-fr/unreal-engine/unreal-engine-5-5-documentation)
-
-## Authors
-
-- Lepinay Lucas
-- Adam Hamouch
-- Tevairua Jouen
-- Gaspard Gualliot
